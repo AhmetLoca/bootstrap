@@ -1,0 +1,33 @@
+body {
+  background-color:#E9ECEF;
+}
+div {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  div ul li {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  img {
+    width: 300px;
+  }
+  
+  .fish {
+    margin: 20px;
+  }
+  
+
+  h1{
+    color:royalblue
+  }
+
+  #cesit{
+    color:burlywood;
+  }
